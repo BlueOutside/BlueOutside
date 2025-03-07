@@ -1,4 +1,13 @@
-## Hi there 👋
+# Readme.MD
+Hi there! 👋 I'm **Denver**, a guy that likes tech. I genuinely do not know what to say.
+
+---
+
+## 📊 GitHub Stats:
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlueOutside&show_icons=true&theme=radical)
+
+---
+
 
 <!--
 **BlueOutside/BlueOutside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
